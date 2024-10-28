@@ -1,4 +1,6 @@
 # Personal Health Coach
+Building AI course project
+
 Final project: <b>AI idea</b> for the course <i>Building AI - Elements of AI</i>
 
 ## Summary 
